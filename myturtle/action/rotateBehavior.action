@@ -1,0 +1,8 @@
+# Define the goal
+float64 angle  # Specify goal position
+---
+# Define the result
+bool ok
+---
+# Define a feedback message
+float64 remainingAngle

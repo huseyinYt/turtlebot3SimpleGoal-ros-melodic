@@ -1,0 +1,8 @@
+# Define the goal
+float64 yaw  # Specify current position
+---
+# Define the result
+bool ok
+---
+# Define a feedback message
+float64 currentYaw

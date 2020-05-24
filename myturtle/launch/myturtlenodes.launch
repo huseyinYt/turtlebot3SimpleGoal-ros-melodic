@@ -1,0 +1,9 @@
+<launch>
+
+<node pkg ="myturtle" type="pathplannerservice"         name = "pathplannerservice"  />
+<node pkg ="myturtle" type="rotatebehaviouraction"      name = "rotatebehaviouraction"  />
+<node pkg ="myturtle" type="movebehaviouraction"        name = "movebehaviouraction"  />
+<node pkg ="myturtle" type="victorybehaviouraction"     name = "victorybehaviouraction"  />
+
+
+</launch>
